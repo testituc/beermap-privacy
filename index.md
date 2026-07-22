@@ -76,8 +76,3 @@ Pour toute question sur cette politique ou pour exercer tes droits :
 **tugdualmabitdesaintseine@gmail.com**
 
 ---
-
-*Ce document est un modèle rédigé pour les besoins de la publication de
-BeerMap sur les stores. Il ne constitue pas un avis juridique — si tu
-prévois une diffusion large ou commerciale de l'app, fais-le relire par un
-professionnel du droit, notamment pour la conformité RGPD complète.*
